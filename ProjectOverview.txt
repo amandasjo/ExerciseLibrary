@@ -1,0 +1,26 @@
+Goal: Creating an associated web- and mobile application containing a library of exercises for beachvolleyball. 
+
+
+
+*Library/Server/Database 
+A SQL-database containing a library of beachvolleyball exercises that can be separated on: moment/focus, number of players, game level, instructions
+
+	JSON – format till rest-API
+	Node.js till backend – kommunikation mellan databas och webbsida(?)
+
+
+*Website 
+An overview of the exercise library, with ability to add, delete and modify
+
+	JavaScript - formatting and visual content
+	HTML – layout 
+	CSS – browser, design
+
+
+*Mobile application
+Filter or randomize exercise that suits the requests by tags or similar
+
+	JAVA - application
+	XML - layout
+	(Android studio)
+	
